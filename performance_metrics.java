@@ -11,7 +11,7 @@ public class AmazonPerformanceTest {
 
     public static void main(String[] args) {
         // Set the path to the ChromeDriver executable
-        System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "E:\testing lecture\august\chromedriver-win32\chromedriver-win32\chromedriver.exe");
 
         // Set up Chrome options
         ChromeOptions options = new ChromeOptions();
